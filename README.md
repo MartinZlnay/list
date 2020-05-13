@@ -28,4 +28,4 @@ _bla_
 And this is the second line.</p>
 
  > toto 
- ![alt text](https://i.imgur.com/sbr4ik7.jpg "Electric schematic layout") 
+ <kbd>?</kbd>
