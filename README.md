@@ -6,7 +6,7 @@ _bla_
 
 1. haha
     1. `bubu`
-    2. blabla
+    2. ~~blabla~~
 2. hehe
 
  * _gigi_
