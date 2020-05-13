@@ -24,5 +24,4 @@ _bla_
 
 <p>[Toto je link na stu.](https://www.stuba.sk/)<p>
 ---------------------------------
-    <p>[ident]:(https://www.stuba.sk/)<p>
-[ident]
+    <p>![ident](https://www.eliteshowband.com/florida-event-and-wedding-band/attachment/33-337425_instagram-clipart-psd-instagram-logo-png-hd-download-png/)<p>
