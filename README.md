@@ -24,3 +24,5 @@ _bla_
 
 <p>[Toto je link na stu.](https://www.stuba.sk/)<p>
 ---------------------------------
+<p>This is the first line.<br>
+And this is the second line.</p>
