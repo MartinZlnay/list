@@ -22,7 +22,7 @@ _bla_
 
 
 
-<p>[Toto je link na stu.](https://www.stuba.sk/)<p>
+<p>[](https://www.stuba.sk/)<p>
 
 <p>This is the first line.
 And this is the second line.</p>
