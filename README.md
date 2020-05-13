@@ -36,4 +36,4 @@ And this is the second line.</p>
 
 [1]:https://www.stuba.sk/
 
- ![](https://vsetkoodisney.estranky.sk/fotoalbum/obrazky-disney/mickey-mouse/myckey.jpg.-.html)   
+ ![](http://nd03.jxs.cz/357/738/f4af4a3f40_65746496_o2.jpg)   
