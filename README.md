@@ -15,4 +15,4 @@ toto je nadpis 2 je uplne trapny pretoze:
    2. nuda nuda 
 5. nudaaaa
 #### nadpis 4 
-<p> STU je najlepsia. A pisem lebo ma to nebavy je to uplna nuda daihfudhazigdcuzfazigfzi&zifgzisag&fzu& zigfis&biufgizsfuigzigfvszdfffffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffffffffffffffffffff dagcdhavbchzavczagvzcgazcvjavcjavcgac <p>
+<p> STU je najlepsia. A pisem lebo ma to nebavy je to uplna nuda daihfudhazigdcuzfazigfzi&zifgzisag&fzu& zigfis&biufgizsfuigzigfvsz dffffffffffffffffffff fffffffffffffff fffffffffffffff fffffffffffffffffffffffffffffffff dagcdhavbchzavczagvzcgazcvjavcjavcgac <p>
