@@ -17,5 +17,5 @@ _bla_
      ~huhuhu~
 
 | tabulka | toto je bla |
-| ------- | :----- |
+| ------- | ----- |
 | 1 lll | som pan |
