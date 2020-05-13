@@ -1,6 +1,3 @@
-# 1
-orange <br>
-<p> apple apple apple apple </p>
- * ~~banana~~
- * _lllll_
+# nadpis 
+toto je prva veta
     
