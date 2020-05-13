@@ -1,5 +1,5 @@
 # list
 
 
-*orange
+..*orange
 *apple
