@@ -22,7 +22,7 @@ _bla_
 
 
 
-<p>[](https://www.stuba.sk/)<p>
+<p>[EFF](https://eff.org)<p>
 
 <p>This is the first line.
 And this is the second line.</p>
