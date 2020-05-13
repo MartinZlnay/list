@@ -22,7 +22,7 @@ _bla_
 
 
 
-<p>[EFF](https://eff.org)<p>
+[EFF](https://eff.org)
 
 <p>This is the first line.
 And this is the second line.</p>
