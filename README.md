@@ -26,3 +26,5 @@ _bla_
 ---------------------------------
 <p>This is the first line.
 And this is the second line.</p>
+
+ ![Tux, the Linux mascot](/assets/images/tux.png)
