@@ -26,5 +26,5 @@ _bla_
 ---------------------------------
 <p>This is the first line.
 And this is the second line.</p>
-[ident]:https://www.stuba.sk/
+![Image](http://url/a.png)
 
