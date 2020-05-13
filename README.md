@@ -19,3 +19,4 @@ _bla_
 | tabulka | toto je bla |
 | ------- | -----:|
 | 1 lll | som pan |
+[Toto je link na stu.](https://www.stuba.sk/)
