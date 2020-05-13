@@ -12,5 +12,5 @@ _bla_
  * gigi
    * gege
 
-<p> toto ma byt prva veta <\p>
+<p> toto ma byt prva veta <p>
     toto druha
