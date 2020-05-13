@@ -6,4 +6,4 @@ toto je tretia ~~veta~~
 toto je nadpis 2 je uplne trapny pretoze:
 * martin je noob
 * je to nuda
- * mohol som radsej spat 
+  * mohol som radsej spat 
