@@ -35,3 +35,5 @@ And this is the second line.</p>
 [STU](1) je najlepsia.
 
 [1]:https://www.stuba.sk/
+
+![](https://vsetkoodisney.estranky.sk/fotoalbum/obrazky-disney/mickey-mouse/myckey.jpg.-.html)
