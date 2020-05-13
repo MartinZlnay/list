@@ -1,3 +1,3 @@
 # nadpis 
-toto je prva veta
+toto je prva **veta**
     
