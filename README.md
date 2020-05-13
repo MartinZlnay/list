@@ -14,7 +14,7 @@ _bla_
 
 <p> toto ma byt prva veta <br>
     toto druha<p>
-     ~~huhuhu~~
+ ~~huhuhu~~
 
 | tabulka | toto je bla |
 | ------- | -----:|
