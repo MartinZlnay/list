@@ -15,3 +15,5 @@ _bla_
 <p> toto ma byt prva veta <p>
     toto druha
      ~huhuhu~
+
+| tabulka | toto je bla |
