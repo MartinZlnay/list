@@ -12,9 +12,9 @@ _bla_
  * _gigi_
    * **gege**
 
-<p> toto ma byt prva veta <p>
-    toto druha
-     ~huhuhu~
+<p> toto ma byt prva veta <br>
+    toto druha<p>
+     ~~huhuhu~~
 
 | tabulka | toto je bla |
 | ------- | -----:|
