@@ -24,4 +24,4 @@ _bla_
 
 <p>[Toto je link na stu.](https://www.stuba.sk/)<p>
 ---------------------------------
-    [ident]:(https://www.stuba.sk/)
+    <p>[ident]:(https://www.stuba.sk/)<p>
