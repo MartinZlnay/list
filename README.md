@@ -5,7 +5,7 @@ _bla_
 **ble**
 
 1. haha
-    1. `bubu`
+    1. <kbd>bubu<kbd>
     2. ~~blabla~~
 2. hehe
 
