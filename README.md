@@ -22,5 +22,5 @@ _bla_
 
 
 
-[Toto je link na stu.](https://www.stuba.sk/)
+<p>[Toto je link na stu.](https://www.stuba.sk/)<p>
 ![Toto je logo stu.](https://www.google.com/search?q=stu&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiFvrXoiLHpAhU-RBUIHZg3CAQQ_AUoAnoECAoQBA&biw=1536&bih=792#imgrc=I-lL3KSU0ZUcNM)
