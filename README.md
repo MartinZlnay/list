@@ -9,8 +9,8 @@ _bla_
     2. blabla
 2. hehe
 
- * gigi
-   * gege
+ * _gigi_
+   * **gege**
 
 <p> toto ma byt prva veta <p>
     toto druha
