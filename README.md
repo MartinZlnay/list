@@ -20,10 +20,10 @@ _bla_
 | ------- | -----:|
 | 1 lll | som pan |
 
-![Image](http://url/a.png)
+
 
 <p>[Toto je link na stu.](https://www.stuba.sk/)<p>
----------------------------------
+
 <p>This is the first line.
 And this is the second line.</p>
 
