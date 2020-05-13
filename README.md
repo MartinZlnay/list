@@ -17,6 +17,6 @@ toto je nadpis 2 je uplne trapny pretoze:
 #### nadpis 4 
 > odsek
 ##### nadpis 5 
-<p> pla pla <p> <br>
+<p> pla pla <p>
 ###### nad
 
