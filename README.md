@@ -16,4 +16,5 @@ toto je nadpis 2 je uplne trapny pretoze:
 5. nudaaaa
 #### nadpis 4 
 <p> STU je najlepsia. A pisem lebo ma to nebavy je to uplna nuda daihfudhazigdcuzfazigfzi&zifgzisag&fzu& zigfis&biufgizsfuigzigfvsz dffffffffffffffffffff fffffffffffffff fffffffffffffff fffffffffffffffffffffffffffffffff dagcdhavbchzavczagvzcgazcvjavcjavcgac <p>
- > <p> fj\aifbi i ubidua biuhq ufhoewhf9 h9 hew hw h h9we jwej 0wj 0wj 8j 08j890h w98ehijsifjsuegfuiashfohseu ufhdusigfuihsioghoiahfouhaugfushfuoasgfuihes9fh9shf9u hf uwegfusgfushufg iufg euwgf9gshe9ufh9euashfuoagfuiaghugfuosdaghufiogudsigfusagfuoah ffueiuogfiuogasuigfuisagfiugsuifg <p>
+<p> fj\aifbi i ubidua biuhq ufhoewhf9 h9 hew hw h h9we jwej 0wj 0wj 8j 08j890h w98ehijsifjsuegfuiashfohseu ufhdusigfuihsioghoiahfouhaugfushfuoasgfuihes9fh9shf9u hf uwegfusgfushufg iufg euwgf9gshe9ufh9euashfuoagfuiaghugfuosdaghufiogudsigfusagfuoah ffueiuogfiuogasuigfuisagfiugsuifg <p>
+> toto je ta vec co neviem pomenovat
