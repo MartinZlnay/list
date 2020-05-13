@@ -1,5 +1,5 @@
-# list .text-center
+# list
 
 
-orange
-apple
+*orange
+*apple
