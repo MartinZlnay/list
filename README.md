@@ -1,4 +1,5 @@
+# list .text-center
 
-{:# list .text-center}
+
 orange
 apple
