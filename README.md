@@ -32,6 +32,6 @@ And this is the second line.</p>
 
 - [x] Press the
 
-
+[STU](1) je najlepsia.
 
 [1]:https://www.stuba.sk/
