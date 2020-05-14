@@ -1,9 +1,2 @@
 # nadpis 
-zoznam 1:
-1. a 
-2. h
-8. g 
-20. l
-zoznam 2:
-* p
-* l 
+
