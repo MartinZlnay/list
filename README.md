@@ -1,4 +1,5 @@
 # nadpis
 ## text 
 To je **hrube** slovo. <br>
-Toto _sikme_ slovo.
+Toto _sikme_ slovo. <br>
+Preciarknute ~~slovo~~.
