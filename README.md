@@ -26,4 +26,4 @@ Najlepsia univerzita je [STU](https://www.stuba.sk/). <br>
 
 
 
-[1]:(https://www.stuba.sk/)
+[1]: https://www.stuba.sk/
