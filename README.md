@@ -28,7 +28,8 @@ Najlepsia univerzita je [STU](https://www.stuba.sk/). <br>
 > odrazku
 
 ---
--[ ] zadania 
+- [ ] zadania 
 
+<p> Heslo aktivistky Grety Thurnberg "Počúvajme vedcov" zmobilizovalo milióny ľudí po celom svete v boji proti klimatickej zmene. Aj koronakríza posilnila postavenie vedy. Ľudia na celom svete sa v čase pandémie obracajú k vedcom s nádejou a médiá zaplnili články o biochémii, virológii, epidemiológii, či matematickom modelovaní. </p>
 
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
