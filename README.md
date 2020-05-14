@@ -23,7 +23,7 @@ nakup:
 ### link a obrazok 
 Najlepsia univerzita je [STU](https://www.stuba.sk/). <br>
 [Reddit][1] je najlepsia na Slovensku.
-![](https://www.cukrarskysvet.sk/fotky8077/fotos/_vyr_7713disque-azyme-licorne-blanche.jpg)
+![obrazok](https://www.cukrarskysvet.sk/fotky8077/fotos/_vyr_7713disque-azyme-licorne-blanche.jpg)
 
 
 
