@@ -27,6 +27,8 @@ Najlepsia univerzita je [STU](https://www.stuba.sk/). <br>
 ### nadpis 1
 > odrazku
 
+---
+-[ ] zadania 
 
 
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
