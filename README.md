@@ -22,7 +22,7 @@ nakup:
 | kamion | 8000 | 100 | 50 |
 ### link a obrazok 
 Najlepsia univerzita je [STU](https://www.stuba.sk/). <br>
-[Reddit](1) je najlepsia na Slovensku.
+[Reddit][1] je najlepsia na Slovensku.
 
 
 
